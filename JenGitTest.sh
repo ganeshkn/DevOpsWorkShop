@@ -3,3 +3,4 @@ date
 echo "that is today's date"
 
 date >> date1.txt
+cat date1.txt
